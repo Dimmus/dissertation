@@ -1,0 +1,5 @@
+PWD D:/work/work.chudinov/projects.thesis
+INPUT c:/texlive/2016/texmf.cnf
+INPUT c:/texlive/2016/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT ./dissertation.tex

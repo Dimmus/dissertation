@@ -1,0 +1,161 @@
+\begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{into_las_1}
+\selectlanguageifdefined{english}
+Snitzer~E. Optical Maser Action of Nd +3 in a Barium Crown Glass~// Physical
+  Review Letters.
+\newblock 1961.{}
+
+\bibitem{into_las_2}
+\selectlanguageifdefined{english}
+Low-threshold tunable CW and Q-switched fibre laser operating at 1.55 $\mu m$~/
+  R.~J.~Mears, L.~Reekie, S.~B.~Poole et~al.~// Electronics letters.
+\newblock 1986.
+\newblock Vol. 22:3.
+\newblock P.~159--160.{}
+
+\bibitem{into_las_3}
+\selectlanguageifdefined{english}
+Double clad, offset core Nd fiber laser~/ E.~Snitzer, H.~Po, F.~Hakimi
+  et~al.~// In Optical Fiber Sensors.
+\newblock 1988.
+\newblock P.~PD5.{}
+
+\bibitem{into_las_16}
+\selectlanguageifdefined{english}
+Photonics West: laser markets look good thru 2012.
+\newblock 2011. URL:  http://optics.org/news/2/1/18.{}
+
+\bibitem{into_fbg_1}
+\selectlanguageifdefined{english}
+Narrow linewidth,100 W cw Yb 3+ -doped silica fiber laser with a point-by-point
+  Bragg grating inscribed directly into the active core~/ N.~Jovanovic,
+  M.~Aslund, A.~Fuerbach et~al.~// Opt. Lett.
+\newblock 2007.
+\newblock Vol.~32, no.~19.
+\newblock P.~2804--2806.{}
+
+\bibitem{into_fbg_2}
+\selectlanguageifdefined{english}
+Canning~J. Fibre gratings and devices for sensors and lasers~// Laser Photon.
+  Rev.
+\newblock 2008.
+\newblock Vol.~2.
+\newblock P.~275--289.{}
+
+\bibitem{into_fbg_3}
+\selectlanguageifdefined{english}
+Brambilla~G., Rutt~H. Fiber Bragg gratings with enhanced thermal stability~//
+  Appl. Phys. Lett.
+\newblock 2002.
+\newblock Vol.~80.
+\newblock P.~3259--3261.{}
+
+\bibitem{into_fbg_4}
+\selectlanguageifdefined{english}
+Brambilla~G. High-temperature fibre Bragg grating thermometer~// Electron.
+  Lett.
+\newblock 2002.
+\newblock Vol.~38.
+\newblock P.~954--955.{}
+
+\bibitem{into_fbg_5}
+\selectlanguageifdefined{english}
+Decay of ultraviolet-induced fiber Bragg gratings~/ T.~Erdogan, V.~Mizrahi,
+  P.~J.~Lemaire et~al.~// J. Appl. Phys.
+\newblock 1994.
+\newblock Vol.~76.
+\newblock P.~73--80.{}
+
+\bibitem{into_fbg_6}
+\selectlanguageifdefined{english}
+Aslund~M., Canning~J. Annealing properties of gratings written into
+  UV-presensitized hydrogen-outdiffused optical fiber~// Opt. Lett.
+\newblock 2000.
+\newblock Vol.~25.
+\newblock P.~692--694.{}
+
+\bibitem{into_fbg_7}
+\selectlanguageifdefined{english}
+Archambault~J.~L., Reekie~L., J.Russell~P.~S. 100% reflectivity Bragg
+  reflectors produced in optical fibres by single excimer laser pulses~//
+  Electron. Lett.
+\newblock 1993.
+\newblock Vol.~29.
+\newblock P.~453--455.{}
+
+\bibitem{into_fbg_8}
+\selectlanguageifdefined{english}
+Fokine~M. Formation of thermally stable chemical composition gratings in
+  optical fibers~// J. Opt. Soc. Am. B.
+\newblock 2002.
+\newblock Vol.~19.
+\newblock P.~1759--1765.{}
+
+\bibitem{into_fbg_9}
+\selectlanguageifdefined{english}
+Fokine~M. Thermal stability of oxygen-modulated chemical-composition gratings
+  in standard telecommunication fiber~// Opt. Lett.
+\newblock 2004.
+\newblock Vol.~29.
+\newblock P.~1185--1187.{}
+
+\bibitem{into_fbg_10}
+\selectlanguageifdefined{english}
+Ultrahigh-temperature regenerated gratings in boron-codoped germanosilicate
+  optical fiber using 193 nm~/ S.~Bandyopadhyay, J.~Canning, M.~Stevenson
+  et~al.~// Opt. Lett.
+\newblock 2008.
+\newblock Vol.~33.
+\newblock P.~1917--1919.{}
+
+\bibitem{into_fbg_11}
+\selectlanguageifdefined{english}
+Extreme Silica Optical Fibre Gratings~/ J.~Canning, M.~Stevenson,
+  S.~Bandyopadhyay et~al.~// Sensors.
+\newblock 2008.
+\newblock Vol.~8.
+\newblock P.~6448--6452.{}
+
+\bibitem{into_fbg_12}
+\selectlanguageifdefined{english}
+Long-term thermal stability tests at 1000 ºC of silica fibre Bragg gratings
+  made with ultrafast laser radiation~/ D.~Grobnic, C.~W.~Smelser,
+  S.~J.~Mihailov et~al.~// Meas. Sci. Technol.
+\newblock 2006.
+\newblock Vol.~17.
+\newblock P.~1009--1013.{}
+
+\bibitem{into_fbg_13}
+\selectlanguageifdefined{english}
+Study of spectral and annealing properties of fiber Bragg gratings written in
+  H2-free and H2-loaded fibers by use of femtosecond laser pulses~/ Y.~Li,
+  C.~R.~Liao, D.~N.~Wang et~al.~// Opt. Express.
+\newblock 2008.
+\newblock Vol.~16.
+\newblock P.~21239--21247.{}
+
+\bibitem{into_fbg_14}
+\selectlanguageifdefined{english}
+Smelser~C.~W., Mihailov~S.~J., Grobnic~D. Formation of Type I-IR and Type II-IR
+  gratings with an ultrafast IR laser and a phase mask~// Opt. Express.
+\newblock 2005.
+\newblock Vol.~13.
+\newblock P.~5377--5386.{}
+
+\bibitem{into_fbg_15}
+\selectlanguageifdefined{english}
+Paek~U.~C., Kurkjian~C.~R. Calculation of cooling rate and induced stresses in
+  drawing of optical fibers~// J. Am. Ceram. Soc.
+\newblock 1975.
+\newblock Vol.~58.
+\newblock P.~330--334.{}
+
+\end{thebibliography}
